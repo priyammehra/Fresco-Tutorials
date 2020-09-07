@@ -1,2 +1,4 @@
 
 Hello, sent using push.
+
+Just edited (sample2)
